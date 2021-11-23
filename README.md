@@ -3,7 +3,7 @@
 This module provides the extension for PyTorch toolkit, containing imlplementations of some alternating optimization methods
 acting as envelopes for arbitrary optimizers applied to the problem considered. 
 
-The usage example is provided in `../alternating_demo.py`
+The usage example is provided in `alternating_demo.py`
 for the Iris classification problem with the simplest multilayer neural network. 
 
 The provided solution supports the following
