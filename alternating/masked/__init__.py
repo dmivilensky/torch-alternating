@@ -1,3 +1,2 @@
 from .alternating_envelope_standard import AlternatingEnvelopeStandard
 from .alternating_envelope_accelerated import AlternatingEnvelopeAccelerated, SwitchingStrategy
-from .masked import *
